@@ -1,4 +1,4 @@
-<?php  include('codePhp.php'); ?>
+<?php  include('connect.php'); ?>
 
 <!DOCTYPE html>
 <html>
